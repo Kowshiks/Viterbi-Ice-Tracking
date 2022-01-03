@@ -1,10 +1,5 @@
 #!/usr/local/bin/python3
-#
-# Authors: [PLEASE PUT YOUR NAMES AND USER IDS HERE]
-#
-# Ice layer finder
-# Based on skeleton code by D. Crandall, November 2021
-#
+
 
 from PIL import Image
 from numpy import *
